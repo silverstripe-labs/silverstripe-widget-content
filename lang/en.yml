@@ -1,0 +1,7 @@
+en:
+  SilverStripe\ContentWidget\ContentWidget:
+    PLURALNAME: 'Content Widgets'
+    PLURALS:
+      one: 'A Content Widget'
+      other: '{count} Content Widgets'
+    SINGULARNAME: 'Content Widget'
