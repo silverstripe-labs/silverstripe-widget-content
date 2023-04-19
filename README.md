@@ -8,7 +8,7 @@ Display HTML content in a widget!
 ## Installation
 
 ```sh
-$ composer require silverstripe/content-widget
+composer require silverstripe/content-widget
 ```
 
 ## Usage
